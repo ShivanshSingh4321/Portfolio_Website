@@ -42,7 +42,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Student", "Research Intern", "Freelance 3D Artist", "Web Developer",],
+        strings: ["Student", "Research Intern", "Freelance 3D Artist", "Web Developer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
